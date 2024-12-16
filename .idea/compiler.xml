@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MavenIntell" />
+        <module name="TestIntellijDec132024" />
       </profile>
     </annotationProcessing>
   </component>
