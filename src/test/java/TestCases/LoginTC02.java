@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class LoginTC02 {
-// add new test 2
+// add new test 2 17 apr 
     @Test
     public void loginTc01() {
         // open browser
